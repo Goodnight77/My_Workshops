@@ -1,4 +1,4 @@
-# Intro to Retrieval-Augmented Generation (RAG) Data Flow
+# Intro to Retrieval-Augmented Generation (RAG) Data Overflow
 
 ## Overview
 This project provides an introduction to Retrieval-Augmented Generation (RAG) through a Jupyter Notebook and an accompanying presentation. It demonstrates a basic RAG data flow, illustrating how retrieval-based augmentation enhances generative models.
@@ -19,7 +19,7 @@ This project requires Python and some essential libraries. you can install depen
    ```
 3. **Install dependencies** (inspect `basic_rag_dataflow.ipynb` for required packages). Common ones include:
    ```sh
-   pip install pandas langchain openai
+   pip install pandas langchain langchain-groq
    ```
 
 ## Usage
