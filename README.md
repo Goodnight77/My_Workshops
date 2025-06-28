@@ -1,43 +1,56 @@
-# Generative AI Bootcamp 
+# My workshops
 
+**A collection of workshops I’ve delivered on NLP, LLMs, RAG, Qdrant and related AI topics across various events and bootcamps.**
 
-## 01. [Introduction to NLP and LLMs](01-Intro-to-NLP-and-LLMs/)
- 
-In this module, we will learn what NLP and LLM are and
-implement a simple NLP pipeline to from cleaning to word embeddings of text.
+## 01.GDG Carthage bootcamp
+In this bootcamp we go through NLP and RAG.
 
-What we will do: 
+### 1.1 [Introduction to NLP and LLMs](01-Intro-to-NLP-and-LLMs/)
+**In this workshop, we will learn what NLP and LLM are and implement a simple NLP pipeline to from cleaning to word embeddings of text.**
 
-### 1.1 Introduction to GenAI and NLP 
-* GenAI
-* NLP
-
-### 1.2 Introduction to LLMs
-* What LLMs are??
+* What is NLP & its techniques
+* What LLMs are?
 * Attention mechanism
+
+### 1.2 [Introduction to RAG](02-intro-to-RAG/)
+In this workshop , we will learn about: 
+
 * Hallucinations
 * Solutions
 * RAG and fine-tuning
-
-## 02. [Introduction to RAG](02-intro-to-RAG/)
-
-### 2.1 Introduction to RAG
 * What is RAG?
 * RAG vs. Fine-tuning
 * How does RAG work?
 * RAG components 
 * RAG in practice
 
+## 02. [GDGoC SUP'COM bootcamp](nlp_meets_genai_llms_rag/)
+**As a component of the GENAI bootcamp organized by GDGoC SUP'COM & ISAMM.**
+## 03. [GDGoC EPI & FSS Intro to RAG and techniques](intro-rag-and-techniques-epi-fss/)
+**This workshop is one of the sessions in the FSS & EPI GENAI bootcamp.**
+## 04. [GO DATA SCIENCE hackathon (GODS 4.0)](Into-to-NLP-GODS-4.0/)
+**Delivered as part of the GODS 4.0 hackathon, this workshop covers:**
+* NLP & techniques
+* Data preprocessing techniques
+* Building a simple text classification model 
+
+## 05. [Data Overflow workshop](Intro-RAG-Data-Overflow/)
+**This workshop is a part of the Data Overflow bootcamp which focuses basically on building a chatbot that talk on your behalf (from your resume informations)**
+
+
+## 06. AINS 3.0 RAG Talk 
+**This talk was part of the AINS 3.0 event organized by CS IEEE INSAT which covers how we could enhance RAG pipelines using Qdrant as a vector store.**
+You will find all the materials in this repo [Building Smarter RAG Pipelines with Qdrant](https://github.com/Goodnight77/Just-RAG/tree/main/qdrant)
 
 
 
-### other resources 
-here is an insightful course from Google Cloud
-[Introduction to Generative AI ](https://www.cloudskillsboost.google/paths/118)
+> other resources 
+> At the end of each workshop presentation in the Slides folder, you will find a set of resources to help you get started.
+> [Introduction to Generative AI : course from Google cloud](https://www.cloudskillsboost.google/paths/118)
 
 
-### Instructor
-
+## Instructor
+Feel free to reach out if you have any questions, want to collaborate, or just want to have a chat.
 - [Mohammed Arbi Nsibi](https://www.linkedin.com/in/mohammed-arbi-nsibi-584a43241/)
 
 ---
