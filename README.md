@@ -9,19 +9,16 @@ In this bootcamp we go through NLP and RAG.
 **In this workshop, we will learn what NLP and LLM are and implement a simple NLP pipeline to from cleaning to word embeddings of text.**
 
 * What is NLP & its techniques
-* What LLMs are?
+* What are LLMs?
 * Attention mechanism
 
 ### 1.2 [Introduction to RAG](02-intro-to-RAG/)
 In this workshop , we will learn about: 
 
-* Hallucinations
-* Solutions
+* Hallucinations & Solutions
 * RAG and fine-tuning
 * What is RAG?
-* RAG vs. Fine-tuning
-* How does RAG work?
-* RAG components 
+* How does RAG work & its components
 * RAG in practice
 
 ## 02. [GDGoC SUP'COM bootcamp](nlp_meets_genai_llms_rag/)
@@ -44,14 +41,14 @@ You will find all the materials in this repo [Building Smarter RAG Pipelines wit
 
 
 
-> other resources 
-> At the end of each workshop presentation in the Slides folder, you will find a set of resources to help you get started.
-> [Introduction to Generative AI : course from Google cloud](https://www.cloudskillsboost.google/paths/118)
+## other resources 
+At the end of each workshop presentation in the Slides folder, you will find a set of resources to help you get started.
+[Introduction to Generative AI : course from Google cloud](https://www.cloudskillsboost.google/paths/118)
 
 
 ## Instructor
 Feel free to reach out if you have any questions, want to collaborate, or just want to have a chat.
-- [Mohammed Arbi Nsibi](https://www.linkedin.com/in/mohammed-arbi-nsibi-584a43241/)
+My linkedin : [Mohamed Arbi Nsibi](https://www.linkedin.com/in/mohammed-arbi-nsibi-584a43241/)
 
 ---
 
