@@ -41,9 +41,10 @@ You will find all the materials in this repo [Building Smarter RAG Pipelines wit
 
 
 
-## other resources 
+## Resources 
 At the end of each workshop presentation in the Slides folder, you will find a set of resources to help you get started.
-[Introduction to Generative AI : course from Google cloud](https://www.cloudskillsboost.google/paths/118)
+* [Introduction to Generative AI : course from Google cloud](https://www.cloudskillsboost.google/paths/118)
+* more to be added soon...
 
 
 ## Instructor
