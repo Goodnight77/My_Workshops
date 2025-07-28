@@ -37,7 +37,7 @@ In this workshop , we will learn about:
 
 ## 06. AINS 3.0 RAG Talk 
 **This talk was part of the AINS 3.0 event organized by CS IEEE INSAT which covers how we could enhance RAG pipelines using Qdrant as a vector store.**
-You will find all the materials in this repo [Building Smarter RAG Pipelines with Qdrant](https://github.com/Goodnight77/Just-RAG/tree/main/qdrant)
+You will find all the materials in this repo [Building Smarter RAG Pipelines with Qdrant](https://github.com/Goodnight77/Just-RAG/tree/main/AINS_qdrant_talk)
 
 
 
