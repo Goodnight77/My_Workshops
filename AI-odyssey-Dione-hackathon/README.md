@@ -13,8 +13,8 @@ The notebook utilizes the following libraries and tools:
 - **PyPDF**: For processing PDF documents (if you need to use PDFs instead of md files)
 
 ## Contents
-- `Smollgents_with_Qdrant.ipynb` : main notebook/demo using Qdrant.
-- `resources.md` : additional resources and links.
+- [`Smollgents_with_Qdrant.ipynb`](./Smollgents_with_Qdrant.ipynb) : main notebook/demo using Qdrant.
+- [`resources.md`](./resources.md) : additional resources and links.
 
 ## Usage
 1. Open the notebook with Jupyter or Google colab.
