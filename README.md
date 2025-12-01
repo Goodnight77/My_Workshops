@@ -1,59 +1,61 @@
-# My workshops
+<div align="center">
+	<img src="./assets/nanami.webp" alt="Workshop illustration"height="170" width="360" />
+	<h1>My AI Workshop Vault</h1>
+	<p>
+		✨ A curated collection of Retrieval-Augmented Generation, NLP, and GenAI workshops powered by
+		<a href="https://qdrant.tech/">Qdrant</a>, open-source tooling, and hands-on demos. ✨
+	</p>
+	<p>
+		<a href="https://img.shields.io/github/license/Goodnight77/GenerativeAI_bootcamp">
+		<a href="https://github.com/Goodnight77/GenerativeAI_bootcamp/commits/main"><img src="https://img.shields.io/github/last-commit/Goodnight77/GenerativeAI_bootcamp" alt="GitHub last commit"></a>
+		<a href="https://github.com/Goodnight77/GenerativeAI_bootcamp/stargazers"><img src="https://img.shields.io/github/stars/Goodnight77/GenerativeAI_bootcamp?style=social" alt="GitHub stars"></a>
+		<a href="https://discord.gg/qdrant"><img src="https://img.shields.io/badge/Discord-Qdrant%20Community-blueviolet" alt="Discord"></a>
+	</p>
+	<div>
+		<a href="#workshop-index">Workshops</a> |
+		<a href="#how-to-use-this-repository">How&nbsp;To&nbsp;Use</a> |
+		<a href="#spotlight-ains-30-qdrant-talk">Spotlight</a> |
+		<a href="#resources">Resources</a> |
+		<a href="#instructor">Contact</a>
+	</div>
+</div>
 
-**A collection of workshops I’ve delivered on NLP, LLMs, RAG, Qdrant and related AI topics across various events and bootcamps.**
+# My Workshops
 
-## 01.GDG Carthage bootcamp
-In this bootcamp we go through NLP and RAG.
+**A curated collection of hands-on sessions I’ve delivered on NLP, LLMs, Retrieval-Augmented Generation, Qdrant, and applied GenAI.**
 
-### 1.1 [Introduction to NLP and LLMs](01-Intro-to-NLP-and-LLMs/)
-**In this workshop, we will learn what NLP and LLM are and implement a simple NLP pipeline to from cleaning to word embeddings of text.**
+## Workshop Index
+| # | Folder | Session Title | Event / Focus |
+|---|---|---|---|
+|01|[01-Intro-to-NLP-and-LLMs](01-Intro-to-NLP-and-LLMs/)|Introduction to NLP & LLM Fundamentals|GDG Carthage bootcamp – from text cleaning to embeddings and attention|
+|02|[02-Intro-to-RAG](02-Intro-to-RAG/)|Introduction to Retrieval-Augmented Generation|GDG Carthage bootcamp – hallucination mitigation, RAG concepts, and end-to-end demos|
+|03|[intro-rag-and-techniques-epi-fss](intro-rag-and-techniques-epi-fss/)|Speaking on Your Behalf: Basic RAG|GDGoC EPI & FSS bootcamp – resume-grounded assistants and retrieval best practices|
+|04|[Into-to-NLP-GODS-4.0](Into-to-NLP-GODS-4.0/)|Intro to NLP (GODS 4.0)|GO Data Science hackathon – NLP techniques, preprocessing, and classification|
+|05|[nlp_meets_genai_llms_rag](nlp_meets_genai_llms_rag/)|NLP meets GenAI & LLMs|GDGoC SUP'COM & ISAMM GENAI bootcamp – blending classical NLP with modern LLM tooling|
+|06|[Intro-RAG-Data-Overflow](Intro-RAG-Data-Overflow/)|Data Overflow RAG Workshop|Data Overflow bootcamp – chatbot that speaks on your behalf using custom context|
+|07|[AI-odyssey-Dione-hackathon](AI-odyssey-Dione-hackathon/)|Agentic RAG with Smolagents & Qdrant|AI Odyssey – building autonomous agents backed by Qdrant vector search|
 
-* What is NLP & its techniques
-* What are LLMs?
-* Attention mechanism
+> Each folder includes notebooks (`*.ipynb`), slides, and supporting assets referenced during the live sessions.
 
-### 1.2 [Introduction to RAG](02-intro-to-RAG/)
-In this workshop , we will learn about: 
+## How to Use This Repository
+1. Pick the folder that matches the session you’re interested in and open the README or notebooks inside.
+2. Launch notebooks in VS Code, Jupyter, or Colab. Most projects include environment instructions or a `requirements.txt`.
+3. Explore the `slides/` subfolder for presentation decks and `resources.md` (when available) for curated links.
+4. Mix and match assets across workshops to build your own curricula or demos.
 
-* Hallucinations & Solutions
-* RAG and fine-tuning
-* What is RAG?
-* How does RAG work & its components
-* RAG in practice
+## Spotlight: AINS 3.0 Qdrant Talk
+Looking for the AINS 3.0 talk on Qdrant-powered RAG pipelines? Find the complete material here: [Building Smarter RAG Pipelines with Qdrant](https://github.com/Goodnight77/Just-RAG/tree/main/AINS_qdrant_talk).
 
-## 02. [GDGoC SUP'COM bootcamp](nlp_meets_genai_llms_rag/)
-**As a component of the GENAI bootcamp organized by GDGoC SUP'COM & ISAMM.**
-## 03. [GDGoC EPI & FSS Intro to RAG and techniques](intro-rag-and-techniques-epi-fss/)
-**This workshop is one of the sessions in the FSS & EPI GENAI bootcamp.**
-## 04. [GO DATA SCIENCE hackathon (GODS 4.0)](Into-to-NLP-GODS-4.0/)
-**Delivered as part of the GODS 4.0 hackathon, this workshop covers:**
-* NLP & techniques
-* Data preprocessing techniques
-* Building a simple text classification model 
-
-## 05. [Data Overflow workshop](Intro-RAG-Data-Overflow/)
-**This workshop is a part of the Data Overflow bootcamp which focuses basically on building a chatbot that talk on your behalf (from your resume informations)**
-
-
-## 06. AINS 3.0 RAG Talk 
-**This talk was part of the AINS 3.0 event organized by CS IEEE INSAT which covers how we could enhance RAG pipelines using Qdrant as a vector store.**
-You will find all the materials in this repo [Building Smarter RAG Pipelines with Qdrant](https://github.com/Goodnight77/Just-RAG/tree/main/AINS_qdrant_talk)
-
-
-
-## Resources 
-At the end of each workshop presentation in the Slides folder, you will find a set of resources to help you get started.
-* [Introduction to Generative AI : course from Google cloud](https://www.cloudskillsboost.google/paths/118)
-* more to be added soon...
-
+## Resources
+Every workshop deck ends with recommended reading, but here are a few evergreen starters:
+* [Introduction to Generative AI (Google Cloud Skill Boost)](https://www.cloudskillsboost.google/paths/118)
+* Additional reading lists are linked per folder and will keep growing.
 
 ## Instructor
-Feel free to reach out if you have any questions, want to collaborate, or just want to have a chat.
-My linkedin : [Mohamed Arbi Nsibi](https://www.linkedin.com/in/mohammed-arbi-nsibi-584a43241/)
+Questions, collaboration ideas, or feedback? Reach out anytime.
+
+**LinkedIn:** [Mohamed Arbi Nsibi](https://www.linkedin.com/in/mohammed-arbi-nsibi-584a43241/)
 
 ---
 
 ⭐️ If you find this repository helpful, please consider giving it a star!
-
-Keywords: RAG, Retrieval-Augmented Generation, NLP, AI, Machine Learning, Information Retrieval, Natural Language Processing, LLM, Embeddings, Semantic Search
-
