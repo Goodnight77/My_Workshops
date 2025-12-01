@@ -2,7 +2,7 @@
 	<img src="./assets/nanami.webp" alt="Workshop illustration"height="170" width="360" />
 	<h1>My AI Workshop Vault</h1>
 	<p>
-		✨ A curated collection of Retrieval-Augmented Generation, NLP, and GenAI workshops powered by
+		✨ A curated collection of Retrieval-Augmented Generation, NLP, and GenAI workshops powered by LangChain,
 		<a href="https://qdrant.tech/">Qdrant</a>, open-source tooling, and hands-on demos. ✨
 	</p>
 	<p>
