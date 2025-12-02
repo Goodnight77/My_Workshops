@@ -28,4 +28,8 @@ The notebook utilizes the following libraries and tools:
 3. Run the notebooks interactively.
 
 ## Notes
+- For the workshop recording please refer to this [Drive link](https://drive.google.com/file/d/1wMW4TEhi9MlavCQnXiesFr3J41Rkms3f/view).
 - For questions please feel free to reach out on linkedin [Mohamed Arbi Nsibi](https://www.linkedin.com/in/mohammed-arbi-nsibi-584a43241/)
+
+## Acknowledgements
+A huge thanks to **Mehdi Bani**, **GDGoC FST**, and **Dione Protocol** for the invitation!
