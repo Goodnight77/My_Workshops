@@ -18,6 +18,7 @@ The notebook utilizes the following libraries and tools:
 
 ## Usage
 1. Open the notebook with Jupyter or Google colab.
+   > **Note:** If you have difficulty viewing the notebook on GitHub, you can open it directly in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L0qrlnrhARfvB0U7vLRcNAOIMgcyP4i1)
 2. (Optional) Create a virtual environment and install dependencies.
 	 - Windows (PowerShell):
 		 ```powershell
