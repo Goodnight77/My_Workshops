@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="./assets/VIO.png" alt="Workshop illustration" height="170" width="360" />
+	<img src="../../assets/VIO.png" alt="Workshop illustration" height="170" width="360" />
 	<h1>Vectors in Orbit Event</h1>
 	<p>
 		✨ A curated collection of vector search, RAG, and Qdrant demos for this workshop. ✨
