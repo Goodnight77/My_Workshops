@@ -5,20 +5,16 @@
 </div>
 
 ## Key Themes
-- Qdrant as a production-ready vector database
-- Strategies for scaling semantic search beyond proof-of-concept
-- Integrations that unlock hybrid search and observability
+- Vector search fundamentals and how embeddings capture semantic similarity
+- Real-world AI transformation use cases across industries adopting vector search
+- Qdrant deployment options: open source, managed cloud, hybrid, and private setups
+- Hands-on onboarding with the Qdrant Python SDK in local mode, plus an interactive quiz wrap-up
 
-## Additional Resources
-### Qdrant
+### Additional Resources
 - [Newsletter subscription](https://qdrant.tech/subscribe/?utm_medium=referral&utm_source=stars&utm_campaign=devrel&utm_content=mohammed-arbi)
 - [Homepage](http://qdrant.tech/?utm_medium=referral&utm_source=stars&utm_campaign=devrel&utm_content=mohammed-arbi)
 - [Documentation](https://qdrant.tech/documentation/?utm_medium=referral&utm_source=stars&utm_campaign=devrel&utm_content=mohammed-arbi)
 - [Cloud signup](https://cloud.qdrant.io/signup?utm_medium=referral&utm_source=stars&utm_campaign=devrel&utm_content=mohammed-arbi)
-
-### Speaker
 - [Medium account](https://medium.com/@mohammedarbinsibi)
-
-### GitHub Projects
 - [Just-RAG](https://github.com/Goodnight77/Just-RAG)
 - [Qdrant resources](https://github.com/Goodnight77/qdrant-resources)

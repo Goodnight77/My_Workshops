@@ -17,16 +17,12 @@
 	</div>
 </div>
 
-# Vectors in Orbit Event
 
-Short workshop folder for the Vectors in Orbit event.
-
-## What is inside
-- Slides for the talk and the session
-- Demo notebook with full code
+## Slides
+- Slides for the workshop are available at [Workshop: Qdrant Ecosystem from Local to Cloud](https://mohamedarbinsibi.onrender.com/talks/workshop-qdrant-ecosystem-from-local-to-cloud/).
 
 ## How to use
-Open the files and follow the order of the session.
+Open the notebook and follow the order of the session.
 
 ## Resources
 - [Just-RAG GitHub repo](https://github.com/Goodnight77/Just-RAG)

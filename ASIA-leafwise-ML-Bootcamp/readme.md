@@ -16,8 +16,12 @@ I was invited by the ASIA ESSAI Club at UIK University to lead this 🌿 Leafwis
 - Discover how Qdrant powers scalable, high-performance vector search in production.
 - See how to orchestrate tool use, memory for robust agents.
 
+## Slides
+- Slides for the session are available at [Agentic Retrieval Systems with Qdrant](https://mohamedarbinsibi.onrender.com/talks/agentic-retrieval-systems-with-qdrant/).
+
 ## Notebooks To Explore
 Take a look at the reference notebooks from our other workshops to prepare and follow along:
 - [Basic RAG Pipeline Notebook](https://github.com/Goodnight77/My_Workshops/blob/main/Intro-RAG-Data-Overflow/basic_rag_dataflow.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/133FQCGqZKXWrFe4RYDJIjW-ST9P78AH1?usp=sharing)
 – foundational retrieval-augmented generation workflow.
 - [Agentic RAG with Qdrant Notebook](https://github.com/Goodnight77/My_Workshops/blob/main/AI-odyssey-Dione-hackathon/Smollgents_with_Qdrant.ipynb) – demonstrates multi-step agent behaviors with Qdrant as a vectorstore.
+

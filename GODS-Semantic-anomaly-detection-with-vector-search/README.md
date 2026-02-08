@@ -6,6 +6,9 @@ Visualization of the stored Qdrant log embeddings:
 
 ![alt text](../assets/qdrant-anomaly.png)
 
+## Slides
+- Slides for the talk are available at [Semantic Anomaly Detection with Vector Search](https://mohamedarbinsibi.onrender.com/talks/semantic-anomaly-detection-with-vector-search/).
+
 ## Quick Start
 
 1. **Setup Environment**
