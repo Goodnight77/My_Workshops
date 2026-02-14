@@ -31,11 +31,15 @@
 |02|[02-Intro-to-RAG](02-Intro-to-RAG/)|Introduction to Retrieval-Augmented Generation|GDG Carthage bootcamp – hallucination mitigation, RAG concepts, and end-to-end demos|
 |03|[intro-rag-and-techniques-epi-fss](intro-rag-and-techniques-epi-fss/)|Speaking on Your Behalf: Basic RAG|GDGoC EPI & FSS bootcamp – resume-grounded assistants and retrieval best practices|
 |04|[Into-to-NLP-GODS-4.0](Into-to-NLP-GODS-4.0/)|Intro to NLP (GODS 4.0)|GO Data Science hackathon – NLP techniques, preprocessing, and classification|
-|05|[nlp_meets_genai_llms_rag](nlp_meets_genai_llms_rag/)|NLP meets GenAI & LLMs|GDGoC SUP'COM & ISAMM GENAI bootcamp – blending classical NLP with modern LLM tooling|
-|06|[Intro-RAG-Data-Overflow](Intro-RAG-Data-Overflow/)|Data Overflow RAG Workshop|Data Overflow bootcamp – chatbot that speaks on your behalf using custom context|
-|07|[AI-odyssey-Dione-hackathon](AI-odyssey-Dione-hackathon/)|Agentic RAG with Smolagents & Qdrant|AI Odyssey – building autonomous agents backed by Qdrant vector search|
+|05|[nlp_meets_genai_llms_rag](nlp_meets_genai_llms_rag/)|NLP meets GenAI & LLMs|GDGoC SUP'COM & ISAMM GENAI bootcamp, blending classical NLP with modern LLM tooling|
+|06|[Intro-RAG-Data-Overflow](Intro-RAG-Data-Overflow/)|Data Overflow RAG Workshop|Data Overflow bootcamp, chatbot that speaks on your behalf using custom context|
+|07|[AI-odyssey-Dione-hackathon](AI-odyssey-Dione-hackathon/)|Agentic RAG with Smolagents & Qdrant|AI Odyssey, building autonomous agents backed by Qdrant vector search|
+|08|[Vectors-in-Orbit-Event](Vectors-in-Orbit-Event/)|Vectors in Orbit: Qdrant Ecosystem Bundle|Vectors in Orbit event, local-to-cloud Qdrant workshop plus scaling vector search talk|
+|09|[ASIA-leafwise-ML-Bootcamp](ASIA-leafwise-ML-Bootcamp/)|Leafwise ML Bootcamp: Agentic Retrieval Systems|ASIA ESSAI Leafwise bootcamp, evolving core RAG into agentic Qdrant-driven workflows|
+|10|[GODS-Semantic-anomaly-detection-with-vector-search](GODS-Semantic-anomaly-detection-with-vector-search/)|Semantic Anomaly Detection with Vector Search|GO Data Science series, HDFS log monitoring with Qdrant embeddings and distance/DBSCAN detection|
+|11|[NLP-Data-Overflow](NLP-Data-Overflow/)|Advanced NLP: From Bottlenecks to Transformers|Data Overflow bootcamp, deep dive into preprocessing, sequential limits, and transformer architectures|
 
-> Each folder includes notebooks (`*.ipynb`), slides, and supporting assets referenced during the live sessions.
+> Each folder includes notebooks (such as *.ipynb), slide decks, and supporting assets highlighted during the live sessions, with notes on where to find external slide links or companion code when it lives outside the notebook.
 
 ## How to Use This Repository
 1. Pick the folder that matches the session you’re interested in and open the README or notebooks inside.
