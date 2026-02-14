@@ -3,6 +3,8 @@
 [![Presenter: Mohamed Arbi Nsibi](https://img.shields.io/badge/Presenter-Mohamed%20Arbi%20Nsibi-blue)](https://www.linkedin.com/in/mohammed-arbi-nsibi-584a43241/)
 [![Bootcamp: Data Overflow](https://img.shields.io/badge/Bootcamp-Data%20Overflow-orange)]()
 
+Slides: [NLP Workshop Data Overflow](https://mohamedarbinsibi.onrender.com/talks/nlp-workshop-data-overflow-insat/)
+
 
 ## Overview
 This repository contains the complete materials for the **Advanced NLP Workshop** presented at the **Data Overflow Bootcamp**. 
