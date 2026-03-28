@@ -38,7 +38,7 @@ This project utilizes Python.  To set up the environment, it's recommended to us
 
 2. **Navigate to the project directory:**
    ```bash
-   cd nlp_meets_genai_llms_rag
+   cd NLP_meets_genai_llms_RAG
    ```
 
 3. **Launch Jupyter Notebook:**
@@ -50,4 +50,4 @@ This project utilizes Python.  To set up the environment, it's recommended to us
 
 ### Instructor
 
-- [Mohammed Arbi Nsibi](https://www.linkedin.com/in/mohammed-arbi-nsibi-584a43241/)
+- [Mohamed Arbi Nsibi](https://www.linkedin.com/in/mohammed-arbi-nsibi-584a43241/)

@@ -1,4 +1,4 @@
-# 1st Generative AI workshop
+# 1st Generative AI workshop - GDG Carthage 
 
 ## Project Overview
 
