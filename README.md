@@ -22,7 +22,7 @@
 
 # My Workshops
 
-**A curated collection of hands-on sessions I’ve delivered on NLP, LLMs, Retrieval-Augmented Generation, Qdrant, and applied GenAI.**
+**A curated collection of hands-on sessions I’ve delivered on NLP, LLMs, Retrieval-Augmented Generation, Qdrant, vector search and applied GenAI.**
 
 ## Workshop Index
 | # | Folder | Session Title | Event / Focus |
@@ -47,19 +47,9 @@
 3. Explore the `slides/` subfolder for presentation decks and `resources.md` (when available) for curated links.
 4. Mix and match assets across workshops to build your own curricula or demos.
 
-## Spotlight: AINS 3.0 Qdrant Talk
-Looking for the AINS 3.0 talk on Qdrant-powered RAG pipelines? Find the complete material here: [Building Smarter RAG Pipelines with Qdrant](https://github.com/Goodnight77/Just-RAG/tree/main/AINS_qdrant_talk).
-
-## Resources
-Every workshop deck ends with recommended reading, but here are a few evergreen starters:
-* [Introduction to Generative AI (Google Cloud Skill Boost)](https://www.cloudskillsboost.google/paths/118)
-* Additional reading lists are linked per folder and will keep growing.
-
 ## Instructor
 Questions, collaboration ideas, or feedback? Reach out anytime.
 
 **LinkedIn:** [Mohamed Arbi Nsibi](https://www.linkedin.com/in/mohammed-arbi-nsibi-584a43241/)
 
----
-
-⭐️ If you find this repository helpful, please consider giving it a star!
+If you find this repository helpful, please consider giving it a star! ⭐️ 
